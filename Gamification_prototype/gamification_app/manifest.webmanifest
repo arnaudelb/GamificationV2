@@ -1,0 +1,9 @@
+{
+  "name": "Gamification",
+  "short_name": "Gamification",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#061421",
+  "theme_color": "#061421",
+  "icons": []
+}
